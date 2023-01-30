@@ -1,0 +1,10 @@
+{
+	"prefix": "*",
+	"token": "",
+	"clientId": "",
+	"messages": {
+		"COOLDOWN_MESSAGE": "Il te reste `<duration>` de temps avant de pouvoir refaire cette commande !"
+	},
+	"color": "#FF0000",
+	"imageembed": ""
+}
